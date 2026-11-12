@@ -10,6 +10,14 @@
 
 SQL 範例、課本頁碼、執行結果與巢狀查詢分步說明。
 
+## 物聯網 IoT 課程
+
+### [IoT 課程講義](https://kennethwylee.github.io/IoT/)
+
+## 智慧金融科技 FinTech 課程
+
+### [FinTech 課程講義](https://kennethwylee.github.io/FinTech/)
+
 ---
 
 [個人網站與其他教學資源](https://kennethwylee.github.io/)
